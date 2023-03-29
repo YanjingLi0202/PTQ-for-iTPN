@@ -1,0 +1,2 @@
+# python test_quant_clip.py --model RN50 /mnt/lustre/share/images/ --quant --calib-iter 10 --calib-batchsize 100 --quant-method minmax 
+python test_quant.py itpn_base /home/data/ImageNet/ --quant --calib-iter 10 --calib-batchsize 100 --quant-method minmax 
