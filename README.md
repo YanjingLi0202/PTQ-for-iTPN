@@ -9,7 +9,6 @@ This repo contains the implementation of 8-bit Post-Training Quantization for iT
   - [Data preparation](#data-preparation)
   - [Run](#run)
 - [Results on ImageNet](#results-on-imagenet)
-- [Citation](#citation)
 
 
 ## Getting Started
