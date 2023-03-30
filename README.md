@@ -80,7 +80,7 @@ The following results are evaluated on ImageNet.
 | Real-Valued [(37epoch)](https://drive.google.com/file/d/106Brh8ieZ1vD87CajIe0RyXSHvNcJSpb/view?usp=share_link) |   32/32/32    |    83.24     |    --.--     |
 |        MinMax        |     8/8/8     |    82.96     |    --.--     |
 |         EMA          |     8/8/8     |    82.98     |    --.--     |
-|      Percentile      |     8/8/8     |  **83.01**   |    --.--     |
+|      Percentile      |     8/8/8     |  **[83.01](https://drive.google.com/file/d/1EAi71LvKPTk33j71QPcih-h9rZ0gpCQx/view?usp=share_link)**   |    --.--     |
 |         OMSE         |     8/8/8     |    83.00     |    --.--     |
 
 
