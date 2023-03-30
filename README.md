@@ -77,7 +77,7 @@ The following results are evaluated on ImageNet.
 
 |        Method        | W/A/Attn Bits | iTPN-B-pixel | iTPN-L-pixel |
 |:--------------------:|:-------------:|:------------:|:------------:|
-| Real-Valued (37epoch)|   32/32/32    |    83.24     |    --.--     |
+| Real-Valued [(37epoch)](https://drive.google.com/file/d/106Brh8ieZ1vD87CajIe0RyXSHvNcJSpb/view?usp=share_link) |   32/32/32    |    83.24     |    --.--     |
 |        MinMax        |     8/8/8     |    82.96     |    --.--     |
 |         EMA          |     8/8/8     |    82.98     |    --.--     |
 |      Percentile      |     8/8/8     |  **83.01**   |    --.--     |
