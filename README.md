@@ -81,6 +81,6 @@ The following results are evaluated on ImageNet.
 |        MinMax        |     8/8/8     |    82.96     |    --.--     |
 |         EMA          |     8/8/8     |    82.98     |    --.--     |
 |      Percentile      |     8/8/8     |  **83.01**   |    --.--     |
-|         OMSE         |     8/8/8     |    73.39     |    --.--     |
+|         OMSE         |     8/8/8     |    83.00     |    --.--     |
 
 
