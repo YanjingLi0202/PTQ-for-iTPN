@@ -1,8 +1,5 @@
 # PTQ-for-iTPN
 
-# FQ-ViT [[arXiv]](http://arxiv.org/abs/2111.13824)
-
-
 This repo contains the implementation of 8-bit Post-Training Quantization for iTPN (**[Integrally Pre-Trained Transformer Pyramid Networks](https://arxiv.org/pdf/2211.12735.pdf)**). 
 
 
